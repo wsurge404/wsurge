@@ -10,6 +10,12 @@ A windows proxy client based on Singbox, simple and easy to use, open-source and
   <img src="snapshots/settings.png">
 </div>
 
+## Features and Road map:
+- [x] Convert clash config to SingBox
+- [x] Convert clash rule to SingBox srs
+- [x] Enable Mitm 
+- [ ] ToDo: Support tun mode mitm
+- [ ] ToDo: Add more scripts support
 ## ✏️ Acknowledgements
 
 We would like to express our sincere appreciation to the contributors of the following projects, whose robust foundation and innovative features have significantly enhanced the success and functionality of this project.
