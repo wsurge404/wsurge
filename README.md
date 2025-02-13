@@ -6,6 +6,7 @@ A windows proxy client based on Singbox, simple and easy to use, open-source and
 <div align="center">
   <img src="snapshots/home.png">
   <img src="snapshots/mitm.png">
+  <img src="snapshots/request.png">
   <img src="snapshots/settings.png">
 </div>
 
