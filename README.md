@@ -16,6 +16,7 @@ A windows proxy client based on Singbox, simple and easy to use, open-source and
 - [x] Enable Mitm 
 - [ ] ToDo: Support tun mode mitm
 - [ ] ToDo: Add more scripts support
+- [ ] ToDo: Add Mitm request and response detail
 ## ✏️ Acknowledgements
 
 We would like to express our sincere appreciation to the contributors of the following projects, whose robust foundation and innovative features have significantly enhanced the success and functionality of this project.
